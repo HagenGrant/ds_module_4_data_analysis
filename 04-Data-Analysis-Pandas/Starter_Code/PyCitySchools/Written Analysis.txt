@@ -1,0 +1,10 @@
+	With the calcualtions I have performed on these two data sources I can condlude two main points.The first of which 
+is that Charter schools have a higher overall passing rate compared to Districts schools. Charter schools have a 93.62% passing rate
+for math and a 96.59% passing rate for reading. Which leads to an overall passing rate of 90.43%. District schools on the other 
+hand have a passing rate of 66.55% and 80.80% for math and reading respectively. Which leads to an overall passing rate of
+63.67%
+
+	Another point to note, is while it would make intuitive sense that the more funding per student would equate to higher 
+passing rates. That is not the case. With the data provided. We can determine there is a negative relationship with funding per
+student and passing rates. In our analysis, schools fell into 4 buckets for spending rates per student: $585, $585-630, $630-645,
+and $645-680. These buckets had the respective overall passing rates: 90.37%, 81.42%, 62.86%, 53.53%.
